@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "CreditGameForUnity.data.unityweb",
+"asmCodeUrl": "CreditGameForUnity.asm.code.unityweb",
+"asmMemoryUrl": "CreditGameForUnity.asm.memory.unityweb",
+"asmFrameworkUrl": "CreditGameForUnity.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
